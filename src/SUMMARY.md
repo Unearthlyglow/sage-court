@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Sceptic Tank](./sceptic_tank.md)
+- [Bird Bath](./bird_bath.md)

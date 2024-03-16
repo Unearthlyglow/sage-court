@@ -1,6 +1,6 @@
 [book]
-authors = ["Award"]
+authors = ["Award", "Darla", "Dolan", "Judy", "Roger"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Judy & Roger's House Book"
+title = "The Book of Sage Court"
